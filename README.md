@@ -1,4 +1,5 @@
-# Image Captioning Project 
+# Image Captioning Project AMA
+
 
 # Instructions  
 1. Clone this repo: https://github.com/cocodataset/cocoapi  
