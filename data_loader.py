@@ -1,6 +1,6 @@
 import nltk
 import os
-import torch
+import torch 
 import torch.utils.data as data
 from vocabulary import Vocabulary
 from PIL import Image
